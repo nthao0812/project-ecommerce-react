@@ -1,0 +1,14 @@
+.shoppage_container {
+  flex-direction: row;
+  padding: 0 1rem;
+}
+.shoppage_sidebar {
+  width: 15%;
+  align-self: start;
+}
+
+.shoppage_product {
+  display: flex;
+  width: 80%;
+  margin: 0;
+}
